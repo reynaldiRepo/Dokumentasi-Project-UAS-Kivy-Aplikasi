@@ -1,4 +1,4 @@
 # Dokumentasi-Project-UAS-Kivy-Aplikasi
 Dukementasi OOP dari project UAS berupa aplikasi yang dibangun menggunakan Library dari python "kivy"<br>
 
-![LoginPage](/IMAGE/LoginPage.png)
+![LoginPage](/IMAGE/LoginPage.jpg)
